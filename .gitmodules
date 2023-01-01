@@ -1,0 +1,6 @@
+[submodule "src/hri_bringup"]
+	path = src/hri_bringup
+	url = https://github.com/roboav8r/hri_bringup
+[submodule "src/ros_body_recognition"]
+	path = src/ros_body_recognition
+	url = https://github.com/roboav8r/ros_body_recognition
